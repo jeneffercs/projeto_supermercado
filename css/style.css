@@ -44,3 +44,19 @@ h1{
     font-weight: bold;
 }
 
+
+#container{
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:15px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+
+ 
+
